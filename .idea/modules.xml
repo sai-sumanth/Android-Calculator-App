@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-Calculator-App-Project-Source-Code-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-Calculator-App-Project-Source-Code-master.iml" group="Android-Calculator-App-Project-Source-Code-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-Calculator-App-Project-Source-Code-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-Calculator-App-Project-Source-Code-master-app.iml" group="Android-Calculator-App-Project-Source-Code-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator-App-master.iml" filepath="$PROJECT_DIR$/Calculator-App-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
